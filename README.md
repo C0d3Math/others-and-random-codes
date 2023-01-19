@@ -1,2 +1,2 @@
-# others-and-random-codes
-This is for all my codes that are random or don't go in other repositories.
+# cool-code
+This is for all my codes that don't go in other repositories and were made on my Raspberry Pi.
